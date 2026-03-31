@@ -72,7 +72,7 @@ How to Use
 
 1. Clone this repository:
 bash
-git clone https://github.com/<your-username>/ecommerce-sales-dashboard.git
+git clone https://github.com/abhicloud52/E-Commerce-Sales-Performance-Dashboard.git
 cd ecommerce-sales-dashboard
 2. Open reports/E-Commerce_Sales_Dashboard.pbix in Power BI Desktop.
 3. If prompted to locate the data source, browse to data/E-Commerce-Data.xlsx.
